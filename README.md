@@ -9,7 +9,7 @@ query.
 
 ## Sorting phase
 
- ![alt text](https://github.com/saba-kiriako/Sort-Merge-Join-algorithm/tree/main/Images/Sort.png?raw=true)
+<img src='Images/Sort.png'>
  
 ## Merge phase
 
@@ -25,4 +25,5 @@ tuple.
 the left pointer by one and repeat step 2-5.
   
  
- ![alt text](https://github.com/saba-kiriako/Sort-Merge-Join-algorithm/tree/main/Images/Merge.png?raw=true)
+
+<img src='Images/Merge.png'>
